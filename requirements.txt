@@ -4,3 +4,4 @@ pytesseract
 pillow
 streamlit
 opencv-contrib-python-headless
+tesseract-ocr
