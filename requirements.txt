@@ -3,4 +3,4 @@ numpy
 pytesseract
 pillow
 streamlit
-pip install opencv-contrib-python-headless
+opencv-contrib-python-headless
