@@ -1,0 +1,6 @@
+OpenCV
+imutils
+numpy
+pytesseract
+Pillow
+streamlit
