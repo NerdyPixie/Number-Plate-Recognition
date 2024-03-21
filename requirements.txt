@@ -1,6 +1,6 @@
-OpenCV
+opencv-python
 imutils
 numpy
 pytesseract
-Pillow
+pillow
 streamlit
