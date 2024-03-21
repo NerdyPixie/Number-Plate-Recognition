@@ -1,6 +1,6 @@
 # Number Plate Recognition Application
 
-This Streamlit project is designed to perform number plate recognition using OpenCV and Tesseract. The application takes an image as input, enhances it using OpenCV techniques, extracts the number plate from the image, and then reads the text from the number plate using Tesseract OCR.
+This Streamlit project is designed to perform number plate recognition using OpenCV and Tesseract. The application takes an image as input, enhances it using OpenCV techniques, extracts the number plate from the image, and then reads the text from the number plate using Tesseract OCR.  It also provides functionality to search the car number in the current database.
 
 
 ## Images
@@ -58,12 +58,15 @@ The main functionality of the application is contained within the `performOCR` f
 
 6. Use Tesseract to extract text from the number plate region.
 
+7. Provide functionality to search the extracted car number in the current database.
+
 ## Dependencies
 
 - OpenCV
 - imutils
 - numpy
 - pytesseract
+- streamlit
 - Pillow
 
 ## Contributing
