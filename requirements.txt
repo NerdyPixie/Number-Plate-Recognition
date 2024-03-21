@@ -4,4 +4,3 @@ pytesseract
 pillow
 streamlit
 opencv-contrib-python-headless
-python_version >= 3.8
